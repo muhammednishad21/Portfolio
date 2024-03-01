@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/img/WhatsApp\ Image\ 2024-02-29\ at\ 10.12.49_c3abe3bc.jpg") top center;
+  background: url("../../assets/img/WhatsApp\ Image\ 2024-02-29\ at\ 10.12.49_c3abe3bc.png") top center;
   background-size: cover;
   background-position: 10rem 0rem;
 }
